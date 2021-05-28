@@ -1,10 +1,10 @@
-package com.example.rampacalculator
+package com.example.rampacalculator.ui.activity
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageButton
-import com.example.rampacalculator.ui.activity.MainActivity
+import com.example.rampacalculator.R
 
 class FirstActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
